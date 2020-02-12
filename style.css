@@ -1,0 +1,24 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    color: black;
+    font-size: larger;
+    border: ridge;
+    border-color:rgb(161, 202, 48);
+    border-right: ridge 6px yellow;
+    margin: 60px 100px;
+}
+
+.container 
+{
+display: flex;
+background-color: cadetblue;
+
+
+}
+.cuadro 
+{
+    background-color: rgb(43, 14, 19);
+    width: 100px;
+    height: 100px;
+}
